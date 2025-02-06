@@ -7,11 +7,8 @@ import Game from './game/src/pages/Game.vue'
   <header>
 
     <div class="wrapper">
-      <Game msg="You did it!" />
-
       <nav>
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
       </nav>
     </div>
   </header>
