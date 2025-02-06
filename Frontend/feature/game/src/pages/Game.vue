@@ -5,7 +5,7 @@
 <template>
   <body>
     <div>
-      <h1>Test</h1>
+      <h1></h1>
     </div>
   </body>
 </template>
