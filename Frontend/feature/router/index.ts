@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Game from '../game/src/pages/Game.vue'
+import Game from '../game/src/pages/GamePage.vue'
 
 const router = createRouter({
   history: createWebHistory(/*import.meta.env.BASE_URL*/),
