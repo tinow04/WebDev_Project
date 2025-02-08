@@ -1,3 +1,27 @@
+# Wie arbeiten wir im Team?
+
+## Scrum
+Unsere Arbeitsaufteilung wird auf einem Scrum Board organisiert.
+
+### Scrum Board
+[trello (Scrum Board)](https://trello.com/b/W1XkQ45l/pacman)
+
+
+
+
+# Tutorials
+
+## Java
+[Java YT 10h](https://www.youtube.com/watch?v=xk4_1vDrzzo)
+
+
+
+
+
+
+
+
+
 # app
 
 This template should help get you started developing with Vue 3 in Vite.
